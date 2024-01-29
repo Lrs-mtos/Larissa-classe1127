@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sobre_mim>
+    <filmes>
+        <filme>
+            <título>La La Land: Cantando Estações</título>
+            <ano_de_lançamento>2016</ano_de_lançamento>
+            <elenco_principal>Emma Stone, Sebastian Wilder</elenco_principal>
+            <tipo>musical/romance</tipo>
+            <sinopse>Em Los Angeles, Sebastian (Ryan Gosling) é um pianista de jazz cheio de marra e vaidoso que acaba se apaixonando por uma atriz aspirante, a sonhadora Mia (Emma Stone). Mas esse amor passa por várias provações, já que começam a se dedicar mais e mais ao trabalho à medida em que vão se tornando bem-sucedidos.</sinopse>
+        </filme>
+        <filme>
+            <título>Os Outros</título>
+            <ano_de_lançamento>2001</ano_de_lançamento>
+            <elenco_principal>Grace Stewart, Anne Stweart, Nicholas Stewart</elenco_principal>
+            <tipo>terror/misterio</tipo>
+            <sinopse>Durante a Segunda Guerra, a devota Grace aguarda com os filhos o retorno do marido dos campos de batalha. Isolados em uma mansão numa ilha deserta, passam a observar estranhos acontecimentos ao seu redor.</sinopse>
+        </filme>
+        <filme>
+            <título>O Exterminador do Futuro 3 - A Rebelião das Máquinas</título>
+            <ano_de_lançamento>2003</ano_de_lançamento>
+            <elenco_principal>T-X, Terminator, John Connor</elenco_principal>
+            <tipo>ação/ficção científica</tipo>
+            <sinopse>John Connor é designado para liderar a resistência humana ao domínio das máquinas, coordenadas pela Skynet e seu exército de exterminadores. Quando um modelo T-800 aparece, Connor precisa decidir se deve confiar na máquina ou não.</sinopse>
+        </filme>
+    </filmes>
+    <livros>
+        <livro>
+            <título>Desaparecido Para Sempre</título>
+            <autor>Harlan Coben</autor>
+            <ano_de_lançamento>2002</ano_de_lançamento>
+            <tipo>suspense</tipo>
+            <numero_de_paginas>320</numero_de_paginas>
+        </livro>
+        <livro>
+            <título>Não Conte a Ninguém</título>
+            <autor>Harlan Coben</autor>
+            <ano_de_lançamento>2001</ano_de_lançamento>
+            <tipo>suspense</tipo>
+            <numero_de_paginas>256</numero_de_paginas>
+        </livro>
+        <livro>
+            <título>Torto Arado</título>
+            <autor>J. K. Rowling</autor>
+            <ano_de_lançamento>2019</ano_de_lançamento>
+            <tipo>ficção</tipo>
+            <numero_de_paginas>264</numero_de_paginas>
+        </livro>
+    </livros>
+    <comidas>
+        <comida>
+            <nome>Lasanha</nome>
+            <ingredientes>massa, molho de tomate, carne moída, queijo</ingredientes>
+        </comida>
+        <comida>
+            <nome>Macarrão</nome>
+            <ingredientes>massa, molho de tomate, carne moída, queijo</ingredientes>
+        </comida>
+        <comida>
+            <nome>Pavê</nome>
+            <ingredientes>biscoito, creme de leite, leite condensado, chocolate</ingredientes>
+        </comida>
+    </comidas>
+</sobre_mim>
+
+
+<!--
+- 3 filmes de sua preferencia contendo titulo,ano de lançamento, elenco principal, tipo (aventura comedia drama etc) e sinopse
+- 3 Livros de sua preferência contendo titulo, autor, ano de lançamento, tipo (aventura comedia drama etc), numero de pagina
+- 3 comidas prediletas contendo os principais ingredientes
+Envie o arquivo para o seu git -->
