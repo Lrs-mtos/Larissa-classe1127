@@ -1,0 +1,65 @@
+{
+    "sobre_mim": {
+      "filmes": [
+        {
+          "titulo": "La La Land: Cantando Estações",
+          "ano_de_lancamento": 2016,
+          "elenco_principal": "Emma Stone, Sebastian Wilder",
+          "tipo": "musical/romance",
+          "sinopse": "Em Los Angeles, Sebastian (Ryan Gosling) é um pianista de jazz cheio de marra e vaidoso que acaba se apaixonando por uma atriz aspirante, a sonhadora Mia (Emma Stone). Mas esse amor passa por várias provações, já que começam a se dedicar mais e mais ao trabalho à medida em que vão se tornando bem-sucedidos."
+        },
+        {
+          "titulo": "Os Outros",
+          "ano_de_lancamento": 2001,
+          "elenco_principal": "Grace Stewart, Anne Stewart, Nicholas Stewart",
+          "tipo": "terror/misterio",
+          "sinopse": "Durante a Segunda Guerra, a devota Grace aguarda com os filhos o retorno do marido dos campos de batalha. Isolados em uma mansão numa ilha deserta, passam a observar estranhos acontecimentos ao seu redor."
+        },
+        {
+          "titulo": "O Exterminador do Futuro 3 - A Rebelião das Máquinas",
+          "ano_de_lancamento": 2003,
+          "elenco_principal": "T-X, Terminator, John Connor",
+          "tipo": "ação/ficção científica",
+          "sinopse": "John Connor é designado para liderar a resistência humana ao domínio das máquinas, coordenadas pela Skynet e seu exército de exterminadores. Quando um modelo T-800 aparece, Connor precisa decidir se deve confiar na máquina ou não."
+        }
+      ],
+      "livros": [
+        {
+          "titulo": "Desaparecido Para Sempre",
+          "autor": "Harlan Coben",
+          "ano_de_lancamento": 2002,
+          "tipo": "suspense",
+          "numero_de_paginas": 320
+        },
+        {
+          "titulo": "Não Conte a Ninguém",
+          "autor": "Harlan Coben",
+          "ano_de_lancamento": 2001,
+          "tipo": "suspense",
+          "numero_de_paginas": 256
+        },
+        {
+          "titulo": "Torto Arado",
+          "autor": "Itamar Vieira Junior",
+          "ano_de_lancamento": 2019,
+          "tipo": "ficção",
+          "numero_de_paginas": 264
+        }
+      ],
+      "comidas": [
+        {
+          "nome": "Lasanha",
+          "ingredientes": "massa, molho de tomate, carne moída, queijo"
+        },
+        {
+          "nome": "Macarrão",
+          "ingredientes": "massa, molho de tomate, carne moída, queijo"
+        },
+        {
+          "nome": "Pavê",
+          "ingredientes": "biscoito, creme de leite, leite condensado, chocolate"
+        }
+      ]
+    }
+  }
+  
